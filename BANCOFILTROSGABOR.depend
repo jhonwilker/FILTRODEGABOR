@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520100377 source:c:\users\jhonw\desktop\bancofiltrosgabor\main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<math.h>
+
